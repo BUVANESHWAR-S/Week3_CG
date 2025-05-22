@@ -1,80 +1,58 @@
-# Week 1: Java Basics
+# Week 3: Data Structures and Algorithms (DSA)
 
-Welcome to the repository for Week 1 of our Java learning journey. This week focused on
-building a strong foundation in the fundamental concepts of Java programming.
+Welcome to the repository for Week 3 of our Java learning journey. This week focused on 
+understanding fundamental data structures and algorithmic concepts using Java.
 
 ## Table of Contents
 - Overview
 - Topics Covered
-  - Day 1: Introduction to Java
-  - Day 2: Variables, Data Types, and Operators
-  - Day 3: Control Flow (Conditional Statements and Loops)
-  - Day 4: Arrays
-  - Day 5: Strings
-  - Day 6: Functions (Methods)
+  - 01 - Data Structure - LinkedList
+  - 02 - Stack, Queue, HashMap & Hashing Functions
+  - 03 - Sorting Algorithms
+  - 04 & 05 - Linear & Binary Search
+  - 06 - Algorithm's Runtime Analysis & Big-O
 - Prerequisites
 - How to Use This Repository
-- Next Steps
 
 ## Overview
 
-The first week was dedicated to understanding the core syntax and essential building blocks of
-the Java programming language. We covered how to write simple Java programs, handle
-different types of data, control the flow of execution, and work with fundamental data structures
-like arrays and strings, as well as modularizing code with functions (methods).
+The third week was dedicated to exploring core data structures and algorithmic strategies. Topics included working with linked lists, stacks, queues, hash maps, and common sorting and searching techniques. The week concluded with an introduction to algorithm complexity analysis using Big-O notation.
 
 ## Topics Covered
 
-### Day 1: Introduction to Java
-- What is Java?
-- History and importance of Java
-- Setting up the Java Development Kit (JDK)
-- Writing and running the first Java program ("Hello, World!")
-- Understanding the basic structure of a Java program (classes, main method)
+### 01 - Data Structure - LinkedList
+- Understanding linked list structure
+- Implementing singly linked lists
+- Basic operations: insertion, deletion, traversal
 
-### Day 2: Variables, Data Types, and Operators
-- Declaring and initializing variables
-- Primitive data types (int, double, boolean, char, etc.)
-- Non-primitive data types (String - introduced briefly)
-- Understanding Java operators (arithmetic, relational, logical, assignment)
-- Type casting
+### 02 - Stack, Queue, HashMap & Hashing Functions
+- Stack implementation and operations (push, pop, peek)
+- Queue implementation and operations (enqueue, dequeue)
+- Introduction to HashMaps
+- Basic hashing concepts and functions
 
-### Day 3: Control Flow (Conditional Statements and Loops)
-- if, else if, and else statements
-- switch statement
-- for loops
-- while loops
-- do-while loops
-- break and continue statements
+### 03 - Sorting Algorithms
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Basic understanding of how each sort works and its complexity
 
-### Day 4: Arrays
-- What are arrays?
-- Declaring and initializing arrays
-- Accessing array elements
-- Iterating through arrays
-- Multi-dimensional arrays
+### 04 & 05 - Linear & Binary Search
+- Linear search implementation
+- Binary search implementation
+- Prerequisites for binary search (sorted data)
+- Time complexity comparison
 
-### Day 5: Strings
-- Introduction to the String class
-- Creating String objects
-- Common String methods (e.g., length(), charAt(), substring(), equals(), equalsIgnoreCase())
-- String concatenation
-- String immutability
-
-### Day 6: Functions (Methods)
-- What are functions/methods?
-- Defining and calling methods
-- Method parameters and return types
-- Method overloading
-- Understanding static and void keywords
+### 06 - Algorithm's Runtime Analysis & Big-O
+- Understanding time and space complexity
+- Big-O notation
+- Analyzing efficiency of algorithms
 
 ## Prerequisites
-- A computer with a supported operating system (Windows, macOS, Linux).
-- Java Development Kit (JDK) installed.
-- A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse.
+- Week 1 and Week 2 content familiarity (Java basics and OOP)
+- Java Development Kit (JDK) installed
+- A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse
 
 ## How to Use This Repository
 
-This repository is structured to reflect the topics covered each day. You can find code examples,
-notes, or exercises within the respective daily folders (if available). Feel free to explore the
-code, run it, and modify it to deepen your understanding.
+This repository is structured to reflect the topics covered during Week 3. You can find code examples, notes, or exercises within the respective folders. Feel free to explore the code, run it, and modify it to deepen your understanding.
